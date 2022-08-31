@@ -68,5 +68,5 @@ Create the mutt cache directory `~/.mutt/.mutt_cache/` _on the host system_ and 
 # start docker container
 
 ```bash
-docker run -v ~/.mutt:/home/mutt -ti uwe-schwarz/mutt
+docker run -v ~/.mutt:/home/mutt -ti e38383/mutt
 ```
